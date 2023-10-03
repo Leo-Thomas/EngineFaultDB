@@ -14,7 +14,7 @@ pip install git+https://github.com/Leo-Thomas/EngineFaultDB
 
 This dataset consists of 59,000 entries spanning across 14 distinct variables, capturing both standard operational metrics and specific fault conditions. 
 
-Regarding the variables of the data set, these are:
+Regarding the variables of the dataset, these are:
 
 * **Manifold Absolute Pressure (MAP):** A measure of the pressure within the intake manifold, crucial for the engine's electronic control system to regulate fuel injection and ignition timing.
 * **Throttle Position Sensor (TPS):** Provides information about the position of the throttle, influencing fuel injection, ignition timing, and other engine parameters.
@@ -31,7 +31,7 @@ Regarding the variables of the data set, these are:
 * **Lambda:** The air-fuel equivalence ratio.
 * **Air-Fuel Ratio (AFR):** Ratio of air to fuel in the combustion chambers.
   
-The percentage distribution of data according to each fault type category is as follows:
+The percentage distribution of data according to each fault type is as follows:
 
 | Label    | Amount  | Percent (\%) |
 |----------|---------|--------------|
