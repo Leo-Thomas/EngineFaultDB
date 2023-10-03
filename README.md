@@ -31,7 +31,7 @@ Regarding the variables of the data set, these are:
 * **Lambda:** The air-fuel equivalence ratio.
 * **Air-Fuel Ratio (AFR):** Ratio of air to fuel in the combustion chambers.
   
-The percentage distribution of tweets from the annotated data set according to each fault type category is as follows:
+The percentage distribution of data according to each fault type category is as follows:
 
 | Label    | Amount  | Percent (\%) |
 |----------|---------|--------------|
