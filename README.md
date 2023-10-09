@@ -16,18 +16,18 @@ This dataset consists of 59,000 entries spanning across 14 distinct variables, c
 
 Regarding the variables of the dataset, these are:
 
-* **Manifold Absolute Pressure (MAP):** A measure of the pressure within the intake manifold, crucial for the engine's electronic control system to regulate fuel injection and ignition timing.
-* **Throttle Position Sensor (TPS):** Provides information about the position of the throttle, influencing fuel injection, ignition timing, and other engine parameters.
-* **Force:** Represents the engine's torque or rotational force.
-* **Power:** Quantifies the rate at which work is done or energy is transferred in the engine.
+* **Manifold Absolute Pressure (MAP):** A measure of the pressure within the intake manifold, crucial for the engine's electronic control system to regulate fuel injection and ignition timing, measured in kilopascals (kPa).
+* **Throttle Position Sensor (TPS):** Provides information about the position of the throttle, influencing fuel injection, ignition timing, and other engine parameters. It is measured as a percentage.
+* **Force:** Represents the engine's torque or rotational force. It is measured in newtons (N).
+* **Power:** Quantifies the rate at which work is done or energy is transferred in the engine. It is measured in kilowatts (kW).
 * **Revolutions Per Minute (RPM):** Indicates the engine's speed, detailing how many times the engine's crankshaft rotates per minute.
 * **Fuel consumption L/H:** Illustrates the engine's fuel consumption rate.
 * **Fuel consumption L/100KM:** Relays the engine's fuel efficiency over a given distance.
-* **Speed:** The vehicle's travel speed.
-* **Carbon monoxide (CO):** CO concentration in the exhaust gases.
-* **Hydrocarbons (HC):** Concentration of unburnt hydrocarbons in the exhaust.
-* **Carbon dioxide (CO2):** CO2 concentration in the exhaust, indicative of combustion efficiency.
-* **Oxygen (O2):** Oxygen amount in the exhaust, offering insights into the combustion process.
+* **Speed (km/h):** The vehicle's travel speed.
+* **Carbon monoxide (CO):** CO concentration in the exhaust gases. It is measured as a percentage.
+* **Hydrocarbons (HC):** Concentration of unburnt hydrocarbons in the exhaust. It is measured in parts per million (ppm).
+* **Carbon dioxide (CO2):** CO2 concentration in the exhaust, indicative of combustion efficiency. It is measured as a percentage.
+* **Oxygen (O2):** Oxygen amount in the exhaust, offering insights into the combustion process. It is measured as a percentage.
 * **Lambda:** The air-fuel equivalence ratio.
 * **Air-Fuel Ratio (AFR):** Ratio of air to fuel in the combustion chambers.
   
@@ -35,10 +35,10 @@ The percentage distribution of data according to each fault type is as follows:
 
 | Label    | Amount  | Percent (\%) |
 |----------|---------|--------------|
-| Fault type 0  | 18,000 | 30.5 |
-| Fault type 1  | 11,999 | 20.3 |
-| Fault type 2  | 15,000 | 25.4 |
-| Fault type 3  | 14,001 | 23.7 |
+| Fault type 0  | 16,000 | 28.57 |
+| Fault type 1  | 10,998 | 19.64 |
+| Fault type 2  | 15,000 | 26.79 |
+| Fault type 3  | 14,001 | 25    |
 
 <!-- CONTRIBUTING -->
 ## Contributing
