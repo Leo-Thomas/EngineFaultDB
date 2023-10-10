@@ -12,7 +12,7 @@ pip install git+https://github.com/Leo-Thomas/EngineFaultDB
 
 ## Data set description
 
-This dataset consists of 59,000 entries spanning across 14 distinct variables, capturing both standard operational metrics and specific fault conditions. 
+This dataset consists of 55,999 entries spanning across 14 distinct variables, capturing both standard operational metrics and specific fault conditions. 
 
 Regarding the variables of the dataset, these are:
 
