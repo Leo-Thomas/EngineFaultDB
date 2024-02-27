@@ -72,7 +72,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 <!-- CITAITON -->
 ## Citation
-
+```
 @ARTICLE{10311597,
   author={Vergara, Mary and Ramos, Leo and Rivera-Campoverde, Néstor Diego and Rivas-Echeverría, Francklin},
   journal={IEEE Access}, 
@@ -82,7 +82,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
   number={},
   pages={126155-126171},
   doi={10.1109/ACCESS.2023.3331316}}
-
+```
 
 <!-- CONTACT -->
 ## Contact
